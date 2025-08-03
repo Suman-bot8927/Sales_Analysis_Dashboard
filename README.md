@@ -72,8 +72,8 @@ Performance Monitoring – Managers can monitor progress against targets, improv
 Strategic Forecasting – Helps plan promotions, inventory, and budgets based on historical trends.
 
 ### 7.      Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Show what the dashboard looks like
+Example: ![Dashboard Preview](https://github.com/Suman-bot8927/Sales_Analysis_Dashboard/blob/main/Snapshot%20of%20The%20Dashboard.png)
 ### 8.      📁 File Structure
 SALES REPORT.pbix – Power BI report file with all visuals and logic.
 README.md – Project description (this file).
