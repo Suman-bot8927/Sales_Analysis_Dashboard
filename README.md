@@ -71,11 +71,9 @@ Operational Improvements – Spot high-discount/low-profit areas that require at
 Performance Monitoring – Managers can monitor progress against targets, improving accountability.
 Strategic Forecasting – Helps plan promotions, inventory, and budgets based on historical trends.
 
-### 7.      🖼️ Dashboard Screenshot
-
-
-⚠️ Replace with your actual image path after uploading the screenshot to GitHub.
-
+### 7.      Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 ### 8.      📁 File Structure
 SALES REPORT.pbix – Power BI report file with all visuals and logic.
 README.md – Project description (this file).
