@@ -71,10 +71,10 @@ Operational Improvements – Spot high-discount/low-profit areas that require at
 Performance Monitoring – Managers can monitor progress against targets, improving accountability.
 Strategic Forecasting – Helps plan promotions, inventory, and budgets based on historical trends.
 
-### 7.      Screenshots / Demos
+### 6.      Screenshots / Demos
 Show what the dashboard looks like
 Example: ![Dashboard Preview](https://github.com/Suman-bot8927/Sales_Analysis_Dashboard/blob/main/Snapshot%20of%20The%20Dashboard.png)
-### 8.      📁 File Structure
+### 7.      📁 File Structure
 SALES REPORT.pbix – Power BI report file with all visuals and logic.
 README.md – Project description (this file).
 sales-dashboard-preview.png – Dashboard preview image for GitHub.
